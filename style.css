@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  #cart {
+    margin-bottom: 20px;
+  }
+  
+  #add-item-form {
+
+    margin-top: 20px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  input {
+    margin-bottom: 10px;
+  }
+  
